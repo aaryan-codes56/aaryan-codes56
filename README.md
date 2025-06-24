@@ -9,11 +9,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **Frontend & React-based Projects**
-- 🌱 Learning **Full Stack Development**
-- 💡 Passionate about crafting impactful digital experiences through **design + code**
-- 🎥 Also working as a **Video Editor** and Visual Content Creator`
-- 🧠 Exploring **DSA**, **APIs**, **UI/UX**, and building real-world projects
+- 🔭 I’m currently working on **Frontend & React-based Projects**.
+- 🌱 Learning **Full Stack Development**.
+- 💡 Passionate about crafting impactful digital experiences through **design + code**.
+- 🎥 Also working as a **Video Editor** and Visual Content Creator.
+- 🧠 Exploring **DSA**, **APIs**, **UI/UX**, and building real-world projects.
 
 ---
 
