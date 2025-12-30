@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaryan Krishna</h1>
-<h3 align="center">Aspiring Full Stack Developer | React • UI/UX • Problem Solver</h3>
+<h3 align="center">Aspiring Full Stack Developer | Problem Solver</h3>
 
 <p align="center">
   <a href="https://aaryankrishna.vercel.app/" target="_blank">
