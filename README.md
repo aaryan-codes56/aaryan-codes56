@@ -1,57 +1,92 @@
-<h1 align="center">Hi , I am Aaryan</h1>
-<h3 align="center">Aspiring Full Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Aaryan Krishna</h1>
+<h3 align="center">Aspiring Full Stack Developer | React • UI/UX • Problem Solver</h3>
 
 <p align="center">
-  <a href="https://aaryankrishna.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:aaryankrishna009@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://aaryankrishna.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:aaryankrishna009@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aaryan-krishna-840217317" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **Frontend & React-based Projects**.
-- 🌱 Learning **Full Stack Development**.
-- 💡 Passionate about crafting impactful digital experiences through **design + code**.
-- 🎥 Also working as a **Video Editor** and Visual Content Creator.
-- 🧠 Exploring **DSA**, **APIs**, **UI/UX**, and building real-world projects.
+## 👨‍💻 About Me
+
+- 🎓 B.Tech student in **Computer Science & AI**
+- ⚛️ Building modern **React-based web applications**
+- 🌱 Currently learning **Full Stack Development**
+- 🎨 Strong interest in **UI/UX + Frontend Architecture**
+- 🎥 Professional **Video Editor & Visual Content Creator**
+- 🧠 Practicing **DSA**, **APIs**, and real-world problem solving
+
+I love turning ideas into **clean, functional, and visually appealing digital products**.
 
 ---
 
-### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aaryan-krishna-840217317)
+## 🛠 Tech Stack
 
----
+### 💻 Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+</p>
 
-### 🛠️ Languages & Tools
+### 🧠 Programming & Data
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+</p>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+### 🛠 Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaryan-codes56&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-</p>
+### 🔹 Amara – Home Service Finder
+- React-based platform for booking home services  
+- Clean UI, component-based architecture  
+- 🔗 https://amarasolutions.vercel.app/
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryan-codes56&layout=compact&theme=tokyonight" alt="Top Languages"/>
+### 🔹 Portfolio Website
+- Minimal, modern personal portfolio  
+- Built to showcase projects & skills  
+- 🔗 https://aaryankrishna.vercel.app/
+
+> 📌 More projects coming soon — currently building & refining.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aaryan-codes56&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryan-codes56&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
-### ✨ Featured Projects
+## 📫 Let’s Connect
 
-- 🔗 [**Amara: Home Service Finder**](https://amarasolutions.vercel.app/) – React-based web app for booking home services  
-- 🔗 [**Portfolio Website**](https://aaryankrishna.vercel.app/) – Clean, modern portfolio to showcase my work  
-- 🔗 More coming soon...
+- 💼 LinkedIn: https://www.linkedin.com/in/aaryan-krishna-840217317  
+- 🌐 Portfolio: https://aaryankrishna.vercel.app  
+- 📩 Email: aaryankrishna009@gmail.com  
 
+---
 
+<p align="center">
+  <i>“Code with clarity. Design with purpose.”</i>
+</p>
