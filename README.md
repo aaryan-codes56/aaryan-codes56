@@ -70,14 +70,6 @@ I love turning ideas into **clean, functional, and visually appealing digital pr
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaryan-codes56&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryan-codes56&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
 
 ## 📫 Let’s Connect
 
