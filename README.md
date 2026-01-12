@@ -1,4 +1,4 @@
-# Hi 👋, I'm Aaryan Krishna  
+# Hi, I'm Aaryan Krishna  
 
 ### 🚀 Full Stack Developer | DSA & Problem Solving  
 
