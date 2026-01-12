@@ -1,6 +1,6 @@
 # Hi, I'm Aaryan Krishna  
 
-### 🚀 Full Stack Developer | DSA & Problem Solving  
+### Full Stack Developer | DSA & Problem Solving  
 
 ---
 
