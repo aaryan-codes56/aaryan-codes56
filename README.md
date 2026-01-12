@@ -7,7 +7,7 @@
 
 - 🌱 I'm currently learning **different programming languages and frameworks to continuously improve my development skills.**
 
-- 👯 I'm looking to collaborate on **Open-source projects related to web development, React, Node.js, and full-stack applications.
+- 👯 I'm looking to collaborate on **Open-source projects related to web development, React, Node.js, and full-stack applications.**
 **
 
 - 🤝 I'm looking for help with **Learning and understanding System Design concepts to build scalable software systems.**
