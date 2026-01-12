@@ -2,10 +2,6 @@
 
 ### 🚀 Full Stack Developer | DSA & Problem Solving  
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aaryan-codes56&label=Profile%20Views&color=0e75b6&style=flat" alt="aaryan-codes56" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me  
