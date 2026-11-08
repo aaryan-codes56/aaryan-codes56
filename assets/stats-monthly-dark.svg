@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 210" role="img" aria-label="Contributions per month.">
+<style>
+.title { font: 600 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #9198a1; letter-spacing: 1px; }
+.value { font: 650 25px ui-sans-serif, -apple-system, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; fill: #e6edf3; letter-spacing: -.4px; }
+.small { font: 400 12px ui-sans-serif, -apple-system, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; fill: #e6edf3; }
+.muted { font: 400 12px ui-sans-serif, -apple-system, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; fill: #9198a1; }
+.tick { font: 400 10.5px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #9198a1; }
+.rail { stroke: #30363d; stroke-width: 1; }
+.track { fill: #30363d; opacity: .55; }
+.bar { fill: #e3b341; }
+.grow { transform-box: fill-box; transform-origin: bottom; animation: grow .7s cubic-bezier(.2,.7,.2,1) both; }
+.fill { transform-box: fill-box; transform-origin: left; animation: fill .8s cubic-bezier(.2,.7,.2,1) both; }
+@keyframes grow { from { transform: scaleY(0); } }
+@keyframes fill { from { transform: scaleX(0); } }
+@media (prefers-reduced-motion: reduce) { .grow, .fill { animation: none; } }
+</style>
+<rect x=".5" y=".5" width="399" height="209" rx="10" fill="#161b22" stroke="#30363d"/>
+<text class="title" x="20" y="32">MONTHLY ACTIVITY</text>
+
+<line class="rail" x1="20" y1="172" x2="380" y2="172"/>
+<text class="tick" x="33.8" y="192" text-anchor="middle">Nov</text>
+<path class="bar grow" style="animation-delay:0ms" d="M23.0 172V152.1Q23.0 149.1 26.0 149.1H41.7Q44.7 149.1 44.7 152.1V172Z"/>
+<text class="tick" x="61.5" y="192" text-anchor="middle">Dec</text>
+<path class="bar grow" style="animation-delay:35ms" d="M50.7 172V69.0Q50.7 66.0 53.7 66.0H69.4Q72.4 66.0 72.4 69.0V172Z"/>
+<text class="small" x="61.5" y="59.0" text-anchor="middle">88</text>
+<text class="tick" x="89.2" y="192" text-anchor="middle">Jan</text>
+<path class="bar grow" style="animation-delay:70ms" d="M78.4 172V148.5Q78.4 145.5 81.4 145.5H97.1Q100.1 145.5 100.1 148.5V172Z"/>
+<text class="tick" x="116.9" y="192" text-anchor="middle">Feb</text>
+<path class="bar grow" style="animation-delay:105ms" d="M106.1 172V167.8Q106.1 164.8 109.1 164.8H124.8Q127.8 164.8 127.8 167.8V172Z"/>
+<text class="tick" x="144.6" y="192" text-anchor="middle">Mar</text>
+<path class="bar grow" style="animation-delay:140ms" d="M133.8 172V101.5Q133.8 98.5 136.8 98.5H152.5Q155.5 98.5 155.5 101.5V172Z"/>
+<text class="tick" x="172.3" y="192" text-anchor="middle">Apr</text>
+<path class="bar grow" style="animation-delay:175ms" d="M161.5 172V132.8Q161.5 129.8 164.5 129.8H180.2Q183.2 129.8 183.2 132.8V172Z"/>
+<text class="tick" x="200.0" y="192" text-anchor="middle">May</text>
+<path class="bar grow" style="animation-delay:210ms" d="M189.2 172V153.3Q189.2 150.3 192.2 150.3H207.8Q210.8 150.3 210.8 153.3V172Z"/>
+<text class="tick" x="227.7" y="192" text-anchor="middle">Jun</text>
+<path class="bar grow" style="animation-delay:245ms" d="M216.8 172V172.0Q216.8 169.0 219.8 169.0H235.5Q238.5 169.0 238.5 172.0V172Z"/>
+<text class="tick" x="255.4" y="192" text-anchor="middle">Jul</text>
+<text class="tick" x="283.1" y="192" text-anchor="middle">Aug</text>
+<text class="tick" x="310.8" y="192" text-anchor="middle">Sep</text>
+<path class="bar grow" style="animation-delay:350ms" d="M299.9 172V166.6Q299.9 163.6 302.9 163.6H318.6Q321.6 163.6 321.6 166.6V172Z"/>
+<text class="tick" x="338.5" y="192" text-anchor="middle">Oct</text>
+<path class="bar grow" style="animation-delay:385ms" d="M327.6 172V136.5Q327.6 133.5 330.6 133.5H346.3Q349.3 133.5 349.3 136.5V172Z"/>
+<text class="tick" x="366.2" y="192" text-anchor="middle">Nov</text>
+<path class="bar grow" style="animation-delay:420ms" d="M355.3 172V141.3Q355.3 138.3 358.3 138.3H374.0Q377.0 138.3 377.0 141.3V172Z"/>
+</svg>

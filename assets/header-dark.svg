@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 84" role="img" aria-label="Aaryan Krishna. Full-stack products and the AI systems behind them.">
+  <style>
+    .name { font: 650 34px ui-sans-serif, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #e6edf3; letter-spacing: -.6px; }
+    .line { font: 400 16px ui-sans-serif, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #9198a1; }
+    .label { font: 500 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #9198a1; }
+    .rail { stroke: #3d444d; stroke-width: 1.5; }
+    .node { fill: #0d1117; stroke: #656c76; stroke-width: 1.5; }
+    .pulse { fill: #e3b341; animation: travel 6s cubic-bezier(.45,0,.55,1) infinite; }
+    @keyframes travel { from { transform: translateX(0); } to { transform: translateX(258px); } }
+    @media (prefers-reduced-motion: reduce) { .pulse { animation: none; } }
+  </style>
+  <text class="name" x="0" y="38">Aaryan Krishna</text>
+  <text class="line" x="1" y="68">Full-stack products and the AI systems behind them.</text>
+  <line class="rail" x1="534" y1="30" x2="792" y2="30"/>
+  <circle class="node" cx="534" cy="30" r="4.5"/>
+  <circle class="node" cx="620" cy="30" r="4.5"/>
+  <circle class="node" cx="706" cy="30" r="4.5"/>
+  <circle class="node" cx="792" cy="30" r="4.5"/>
+  <circle class="pulse" cx="534" cy="30" r="3"/>
+  <text class="label" x="534" y="54" text-anchor="middle">data</text>
+  <text class="label" x="620" y="54" text-anchor="middle">models</text>
+  <text class="label" x="706" y="54" text-anchor="middle">api</text>
+  <text class="label" x="798" y="54" text-anchor="end">interface</text>
+</svg>

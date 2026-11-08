@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 210" role="img" aria-label="Languages used across public repositories.">
+<style>
+.title { font: 600 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #59636e; letter-spacing: 1px; }
+.value { font: 650 25px ui-sans-serif, -apple-system, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; fill: #1f2328; letter-spacing: -.4px; }
+.small { font: 400 12px ui-sans-serif, -apple-system, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; fill: #1f2328; }
+.muted { font: 400 12px ui-sans-serif, -apple-system, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; fill: #59636e; }
+.tick { font: 400 10.5px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #59636e; }
+.rail { stroke: #d1d9e0; stroke-width: 1; }
+.track { fill: #d1d9e0; opacity: .55; }
+.bar { fill: #9a6700; }
+.grow { transform-box: fill-box; transform-origin: bottom; animation: grow .7s cubic-bezier(.2,.7,.2,1) both; }
+.fill { transform-box: fill-box; transform-origin: left; animation: fill .8s cubic-bezier(.2,.7,.2,1) both; }
+@keyframes grow { from { transform: scaleY(0); } }
+@keyframes fill { from { transform: scaleX(0); } }
+@media (prefers-reduced-motion: reduce) { .grow, .fill { animation: none; } }
+</style>
+<rect x=".5" y=".5" width="399" height="209" rx="10" fill="#f6f8fa" stroke="#d1d9e0"/>
+<text class="title" x="20" y="32">LANGUAGES</text>
+<text class="title" x="380" y="32" text-anchor="end">PUBLIC REPOS</text>
+<text class="small" x="20" y="58">JavaScript</text>
+<text class="small" x="380" y="58" text-anchor="end">59%</text>
+<rect class="track" x="20" y="64" width="360" height="6" rx="3"/>
+<rect class="fill" style="animation-delay:0ms" x="20" y="64" width="214.1" height="6" rx="3" fill="#2a78d6"/>
+<text class="small" x="20" y="85">Python</text>
+<text class="small" x="380" y="85" text-anchor="end">19%</text>
+<rect class="track" x="20" y="91" width="360" height="6" rx="3"/>
+<rect class="fill" style="animation-delay:70ms" x="20" y="91" width="67.1" height="6" rx="3" fill="#eb6834"/>
+<text class="small" x="20" y="112">CSS</text>
+<text class="small" x="380" y="112" text-anchor="end">16%</text>
+<rect class="track" x="20" y="118" width="360" height="6" rx="3"/>
+<rect class="fill" style="animation-delay:140ms" x="20" y="118" width="56.9" height="6" rx="3" fill="#eda100"/>
+<text class="small" x="20" y="139">TypeScript</text>
+<text class="small" x="380" y="139" text-anchor="end">5%</text>
+<rect class="track" x="20" y="145" width="360" height="6" rx="3"/>
+<rect class="fill" style="animation-delay:210ms" x="20" y="145" width="16.5" height="6" rx="3" fill="#1baf7a"/>
+<text class="small" x="20" y="166">HTML</text>
+<text class="small" x="380" y="166" text-anchor="end">1%</text>
+<rect class="track" x="20" y="172" width="360" height="6" rx="3"/>
+<rect class="fill" style="animation-delay:280ms" x="20" y="172" width="5.4" height="6" rx="3" fill="#e87ba4"/>
+</svg>

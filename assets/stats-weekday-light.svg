@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 210" role="img" aria-label="Contributions by weekday.">
+<style>
+.title { font: 600 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #59636e; letter-spacing: 1px; }
+.value { font: 650 25px ui-sans-serif, -apple-system, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; fill: #1f2328; letter-spacing: -.4px; }
+.small { font: 400 12px ui-sans-serif, -apple-system, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; fill: #1f2328; }
+.muted { font: 400 12px ui-sans-serif, -apple-system, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; fill: #59636e; }
+.tick { font: 400 10.5px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #59636e; }
+.rail { stroke: #d1d9e0; stroke-width: 1; }
+.track { fill: #d1d9e0; opacity: .55; }
+.bar { fill: #9a6700; }
+.grow { transform-box: fill-box; transform-origin: bottom; animation: grow .7s cubic-bezier(.2,.7,.2,1) both; }
+.fill { transform-box: fill-box; transform-origin: left; animation: fill .8s cubic-bezier(.2,.7,.2,1) both; }
+@keyframes grow { from { transform: scaleY(0); } }
+@keyframes fill { from { transform: scaleX(0); } }
+@media (prefers-reduced-motion: reduce) { .grow, .fill { animation: none; } }
+</style>
+<rect x=".5" y=".5" width="399" height="209" rx="10" fill="#f6f8fa" stroke="#d1d9e0"/>
+<text class="title" x="20" y="32">BY WEEKDAY</text>
+
+<line class="rail" x1="20" y1="172" x2="380" y2="172"/>
+<text class="tick" x="45.7" y="192" text-anchor="middle">Mon</text>
+<path class="bar grow" style="animation-delay:0ms" d="M33.7 172V101.0Q33.7 98.0 36.7 98.0H54.7Q57.7 98.0 57.7 101.0V172Z"/>
+<text class="tick" x="97.1" y="192" text-anchor="middle">Tue</text>
+<path class="bar grow" style="animation-delay:35ms" d="M85.1 172V139.3Q85.1 136.3 88.1 136.3H106.1Q109.1 136.3 109.1 139.3V172Z"/>
+<text class="tick" x="148.6" y="192" text-anchor="middle">Wed</text>
+<path class="bar grow" style="animation-delay:70ms" d="M136.6 172V69.0Q136.6 66.0 139.6 66.0H157.6Q160.6 66.0 160.6 69.0V172Z"/>
+<text class="small" x="148.6" y="59.0" text-anchor="middle">86</text>
+<text class="tick" x="200.0" y="192" text-anchor="middle">Thu</text>
+<path class="bar grow" style="animation-delay:105ms" d="M188.0 172V133.1Q188.0 130.1 191.0 130.1H209.0Q212.0 130.1 212.0 133.1V172Z"/>
+<text class="tick" x="251.4" y="192" text-anchor="middle">Fri</text>
+<path class="bar grow" style="animation-delay:140ms" d="M239.4 172V165.1Q239.4 162.1 242.4 162.1H260.4Q263.4 162.1 263.4 165.1V172Z"/>
+<text class="tick" x="302.9" y="192" text-anchor="middle">Sat</text>
+<path class="bar grow" style="animation-delay:175ms" d="M290.9 172V124.5Q290.9 121.5 293.9 121.5H311.9Q314.9 121.5 314.9 124.5V172Z"/>
+<text class="tick" x="354.3" y="192" text-anchor="middle">Sun</text>
+<path class="bar grow" style="animation-delay:210ms" d="M342.3 172V102.3Q342.3 99.3 345.3 99.3H363.3Q366.3 99.3 366.3 102.3V172Z"/>
+</svg>

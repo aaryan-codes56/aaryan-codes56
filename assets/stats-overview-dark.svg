@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 210" role="img" aria-label="317 contributions in the past 12 months.">
+<style>
+.title { font: 600 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #9198a1; letter-spacing: 1px; }
+.value { font: 650 25px ui-sans-serif, -apple-system, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; fill: #e6edf3; letter-spacing: -.4px; }
+.small { font: 400 12px ui-sans-serif, -apple-system, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; fill: #e6edf3; }
+.muted { font: 400 12px ui-sans-serif, -apple-system, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; fill: #9198a1; }
+.tick { font: 400 10.5px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #9198a1; }
+.rail { stroke: #30363d; stroke-width: 1; }
+.track { fill: #30363d; opacity: .55; }
+.bar { fill: #e3b341; }
+.grow { transform-box: fill-box; transform-origin: bottom; animation: grow .7s cubic-bezier(.2,.7,.2,1) both; }
+.fill { transform-box: fill-box; transform-origin: left; animation: fill .8s cubic-bezier(.2,.7,.2,1) both; }
+@keyframes grow { from { transform: scaleY(0); } }
+@keyframes fill { from { transform: scaleX(0); } }
+@media (prefers-reduced-motion: reduce) { .grow, .fill { animation: none; } }
+</style>
+<rect x=".5" y=".5" width="399" height="209" rx="10" fill="#161b22" stroke="#30363d"/>
+<text class="title" x="20" y="32">GITHUB</text>
+<text class="title" x="380" y="32" text-anchor="end">12 MONTHS</text>
+<text class="value" x="20" y="86">317</text>
+<text class="muted" x="21" y="106">contributions</text>
+<text class="value" x="144" y="86">290</text>
+<text class="muted" x="145" y="106">commits</text>
+<text class="value" x="268" y="86">17</text>
+<text class="muted" x="269" y="106">pull requests</text>
+<text class="value" x="20" y="162">43</text>
+<text class="muted" x="21" y="182">active days</text>
+<text class="value" x="144" y="162">22</text>
+<text class="muted" x="145" y="182">active weeks</text>
+<text class="value" x="268" y="162">4</text>
+<text class="muted" x="269" y="182">best streak, days</text>
+</svg>
