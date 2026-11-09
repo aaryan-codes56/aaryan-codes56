@@ -22,9 +22,9 @@
 <rect class="track" x="20" y="68" width="360" height="6" rx="3"/>
 <rect class="fill" style="animation-delay:0ms" x="20" y="68" width="360.0" height="6" rx="3" fill="#e3b341"/>
 <text class="small" x="20" y="91">portfolio</text>
-<text class="small" x="380" y="91" text-anchor="end">51</text>
+<text class="small" x="380" y="91" text-anchor="end">54</text>
 <rect class="track" x="20" y="97" width="360" height="6" rx="3"/>
-<rect class="fill" style="animation-delay:70ms" x="20" y="97" width="286.9" height="6" rx="3" fill="#e3b341"/>
+<rect class="fill" style="animation-delay:70ms" x="20" y="97" width="303.8" height="6" rx="3" fill="#e3b341"/>
 <text class="small" x="20" y="120">fireWild</text>
 <text class="small" x="380" y="120" text-anchor="end">39</text>
 <rect class="track" x="20" y="126" width="360" height="6" rx="3"/>
@@ -33,8 +33,8 @@
 <text class="small" x="380" y="149" text-anchor="end">38</text>
 <rect class="track" x="20" y="155" width="360" height="6" rx="3"/>
 <rect class="fill" style="animation-delay:210ms" x="20" y="155" width="213.8" height="6" rx="3" fill="#e3b341"/>
-<text class="small" x="20" y="178">poppin-flea</text>
-<text class="small" x="380" y="178" text-anchor="end">21</text>
+<text class="small" x="20" y="178">turnout</text>
+<text class="small" x="380" y="178" text-anchor="end">23</text>
 <rect class="track" x="20" y="184" width="360" height="6" rx="3"/>
-<rect class="fill" style="animation-delay:280ms" x="20" y="184" width="118.1" height="6" rx="3" fill="#e3b341"/>
+<rect class="fill" style="animation-delay:280ms" x="20" y="184" width="129.4" height="6" rx="3" fill="#e3b341"/>
 </svg>
