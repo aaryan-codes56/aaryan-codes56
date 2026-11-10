@@ -42,5 +42,5 @@
 <text class="tick" x="338.5" y="192" text-anchor="middle">Oct</text>
 <path class="bar grow" style="animation-delay:385ms" d="M327.6 172V136.5Q327.6 133.5 330.6 133.5H346.3Q349.3 133.5 349.3 136.5V172Z"/>
 <text class="tick" x="366.2" y="192" text-anchor="middle">Nov</text>
-<path class="bar grow" style="animation-delay:420ms" d="M355.3 172V96.7Q355.3 93.7 358.3 93.7H374.0Q377.0 93.7 377.0 96.7V172Z"/>
+<path class="bar grow" style="animation-delay:420ms" d="M355.3 172V69.0Q355.3 66.0 358.3 66.0H374.0Q377.0 66.0 377.0 69.0V172Z"/>
 </svg>
