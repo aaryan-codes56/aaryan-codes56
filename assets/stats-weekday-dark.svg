@@ -22,9 +22,9 @@
 <path class="bar grow" style="animation-delay:0ms" d="M33.7 172V69.0Q33.7 66.0 36.7 66.0H54.7Q57.7 66.0 57.7 69.0V172Z"/>
 <text class="small" x="45.7" y="59.0" text-anchor="middle">113</text>
 <text class="tick" x="97.1" y="192" text-anchor="middle">Tue</text>
-<path class="bar grow" style="animation-delay:35ms" d="M85.1 172V146.9Q85.1 143.9 88.1 143.9H106.1Q109.1 143.9 109.1 146.9V172Z"/>
+<path class="bar grow" style="animation-delay:35ms" d="M85.1 172V145.0Q85.1 142.0 88.1 142.0H106.1Q109.1 142.0 109.1 145.0V172Z"/>
 <text class="tick" x="148.6" y="192" text-anchor="middle">Wed</text>
-<path class="bar grow" style="animation-delay:70ms" d="M136.6 172V95.3Q136.6 92.3 139.6 92.3H157.6Q160.6 92.3 160.6 95.3V172Z"/>
+<path class="bar grow" style="animation-delay:70ms" d="M136.6 172V92.5Q136.6 89.5 139.6 89.5H157.6Q160.6 89.5 160.6 92.5V172Z"/>
 <text class="tick" x="200.0" y="192" text-anchor="middle">Thu</text>
 <path class="bar grow" style="animation-delay:105ms" d="M188.0 172V143.1Q188.0 140.1 191.0 140.1H209.0Q212.0 140.1 212.0 143.1V172Z"/>
 <text class="tick" x="251.4" y="192" text-anchor="middle">Fri</text>

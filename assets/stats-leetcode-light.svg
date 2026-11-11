@@ -24,7 +24,7 @@
 <rect class="track" x="20" y="116" width="360" height="6" rx="3"/>
 <rect class="fill" style="animation-delay:0ms" x="20" y="116" width="24.4" height="6" rx="3" fill="#9a6700"/>
 <text class="small" x="20" y="144">Medium</text>
-<text class="small" x="380" y="144" text-anchor="end">69 / 2145</text>
+<text class="small" x="380" y="144" text-anchor="end">69 / 2146</text>
 <rect class="track" x="20" y="150" width="360" height="6" rx="3"/>
 <rect class="fill" style="animation-delay:70ms" x="20" y="150" width="11.6" height="6" rx="3" fill="#9a6700"/>
 <text class="small" x="20" y="178">Hard</text>
