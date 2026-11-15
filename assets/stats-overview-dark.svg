@@ -23,9 +23,9 @@
 <text class="muted" x="145" y="106">commits</text>
 <text class="value" x="268" y="86">18</text>
 <text class="muted" x="269" y="106">pull requests</text>
-<text class="value" x="20" y="162">46</text>
+<text class="value" x="20" y="162">45</text>
 <text class="muted" x="21" y="182">active days</text>
-<text class="value" x="144" y="162">22</text>
+<text class="value" x="144" y="162">21</text>
 <text class="muted" x="145" y="182">active weeks</text>
 <text class="value" x="268" y="162">4</text>
 <text class="muted" x="269" y="182">best streak, days</text>
