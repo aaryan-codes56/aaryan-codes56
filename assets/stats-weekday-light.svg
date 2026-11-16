@@ -32,5 +32,5 @@
 <text class="tick" x="302.9" y="192" text-anchor="middle">Sat</text>
 <path class="bar grow" style="animation-delay:175ms" d="M290.9 172V136.5Q290.9 133.5 293.9 133.5H311.9Q314.9 133.5 314.9 136.5V172Z"/>
 <text class="tick" x="354.3" y="192" text-anchor="middle">Sun</text>
-<path class="bar grow" style="animation-delay:210ms" d="M342.3 172V113.1Q342.3 110.1 345.3 110.1H363.3Q366.3 110.1 366.3 113.1V172Z"/>
+<path class="bar grow" style="animation-delay:210ms" d="M342.3 172V105.6Q342.3 102.6 345.3 102.6H363.3Q366.3 102.6 366.3 105.6V172Z"/>
 </svg>

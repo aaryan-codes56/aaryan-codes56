@@ -33,8 +33,8 @@
 <text class="small" x="380" y="149" text-anchor="end">39</text>
 <rect class="track" x="20" y="155" width="360" height="6" rx="3"/>
 <rect class="fill" style="animation-delay:210ms" x="20" y="155" width="219.4" height="6" rx="3" fill="#9a6700"/>
-<text class="small" x="20" y="178">rex-ai</text>
-<text class="small" x="380" y="178" text-anchor="end">38</text>
+<text class="small" x="20" y="178">poppin-flea</text>
+<text class="small" x="380" y="178" text-anchor="end">26</text>
 <rect class="track" x="20" y="184" width="360" height="6" rx="3"/>
-<rect class="fill" style="animation-delay:280ms" x="20" y="184" width="213.8" height="6" rx="3" fill="#9a6700"/>
+<rect class="fill" style="animation-delay:280ms" x="20" y="184" width="146.2" height="6" rx="3" fill="#9a6700"/>
 </svg>
