@@ -20,17 +20,17 @@
 <line class="rail" x1="20" y1="172" x2="380" y2="172"/>
 <text class="tick" x="45.7" y="192" text-anchor="middle">Mon</text>
 <path class="bar grow" style="animation-delay:0ms" d="M33.7 172V69.0Q33.7 66.0 36.7 66.0H54.7Q57.7 66.0 57.7 69.0V172Z"/>
-<text class="small" x="45.7" y="59.0" text-anchor="middle">113</text>
+<text class="small" x="45.7" y="59.0" text-anchor="middle">114</text>
 <text class="tick" x="97.1" y="192" text-anchor="middle">Tue</text>
-<path class="bar grow" style="animation-delay:35ms" d="M85.1 172V145.0Q85.1 142.0 88.1 142.0H106.1Q109.1 142.0 109.1 145.0V172Z"/>
+<path class="bar grow" style="animation-delay:35ms" d="M85.1 172V142.5Q85.1 139.5 88.1 139.5H106.1Q109.1 139.5 109.1 142.5V172Z"/>
 <text class="tick" x="148.6" y="192" text-anchor="middle">Wed</text>
-<path class="bar grow" style="animation-delay:70ms" d="M136.6 172V110.3Q136.6 107.3 139.6 107.3H157.6Q160.6 107.3 160.6 110.3V172Z"/>
+<path class="bar grow" style="animation-delay:70ms" d="M136.6 172V110.8Q136.6 107.8 139.6 107.8H157.6Q160.6 107.8 160.6 110.8V172Z"/>
 <text class="tick" x="200.0" y="192" text-anchor="middle">Thu</text>
-<path class="bar grow" style="animation-delay:105ms" d="M188.0 172V143.1Q188.0 140.1 191.0 140.1H209.0Q212.0 140.1 212.0 143.1V172Z"/>
+<path class="bar grow" style="animation-delay:105ms" d="M188.0 172V143.4Q188.0 140.4 191.0 140.4H209.0Q212.0 140.4 212.0 143.4V172Z"/>
 <text class="tick" x="251.4" y="192" text-anchor="middle">Fri</text>
-<path class="bar grow" style="animation-delay:140ms" d="M239.4 172V167.5Q239.4 164.5 242.4 164.5H260.4Q263.4 164.5 263.4 167.5V172Z"/>
+<path class="bar grow" style="animation-delay:140ms" d="M239.4 172V167.6Q239.4 164.6 242.4 164.6H260.4Q263.4 164.6 263.4 167.6V172Z"/>
 <text class="tick" x="302.9" y="192" text-anchor="middle">Sat</text>
-<path class="bar grow" style="animation-delay:175ms" d="M290.9 172V136.5Q290.9 133.5 293.9 133.5H311.9Q314.9 133.5 314.9 136.5V172Z"/>
+<path class="bar grow" style="animation-delay:175ms" d="M290.9 172V136.9Q290.9 133.9 293.9 133.9H311.9Q314.9 133.9 314.9 136.9V172Z"/>
 <text class="tick" x="354.3" y="192" text-anchor="middle">Sun</text>
-<path class="bar grow" style="animation-delay:210ms" d="M342.3 172V105.6Q342.3 102.6 345.3 102.6H363.3Q366.3 102.6 366.3 105.6V172Z"/>
+<path class="bar grow" style="animation-delay:210ms" d="M342.3 172V106.2Q342.3 103.2 345.3 103.2H363.3Q366.3 103.2 366.3 106.2V172Z"/>
 </svg>
