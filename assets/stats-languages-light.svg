@@ -20,23 +20,23 @@
 <text class="small" x="20" y="58">JavaScript</text>
 <text class="small" x="380" y="58" text-anchor="end">44%</text>
 <rect class="track" x="20" y="64" width="360" height="6" rx="3"/>
-<rect class="fill" style="animation-delay:0ms" x="20" y="64" width="158.5" height="6" rx="3" fill="#2a78d6"/>
+<rect class="fill" style="animation-delay:0ms" x="20" y="64" width="156.8" height="6" rx="3" fill="#2a78d6"/>
 <text class="small" x="20" y="85">Python</text>
 <text class="small" x="380" y="85" text-anchor="end">19%</text>
 <rect class="track" x="20" y="91" width="360" height="6" rx="3"/>
-<rect class="fill" style="animation-delay:70ms" x="20" y="91" width="69.9" height="6" rx="3" fill="#eb6834"/>
+<rect class="fill" style="animation-delay:70ms" x="20" y="91" width="69.2" height="6" rx="3" fill="#eb6834"/>
 <text class="small" x="20" y="112">TypeScript</text>
 <text class="small" x="380" y="112" text-anchor="end">18%</text>
 <rect class="track" x="20" y="118" width="360" height="6" rx="3"/>
-<rect class="fill" style="animation-delay:140ms" x="20" y="118" width="66.2" height="6" rx="3" fill="#1baf7a"/>
+<rect class="fill" style="animation-delay:140ms" x="20" y="118" width="65.5" height="6" rx="3" fill="#1baf7a"/>
 <text class="small" x="20" y="139">CSS</text>
 <text class="small" x="380" y="139" text-anchor="end">12%</text>
 <rect class="track" x="20" y="145" width="360" height="6" rx="3"/>
-<rect class="fill" style="animation-delay:210ms" x="20" y="145" width="43.6" height="6" rx="3" fill="#eda100"/>
+<rect class="fill" style="animation-delay:210ms" x="20" y="145" width="43.1" height="6" rx="3" fill="#eda100"/>
 <text class="small" x="20" y="166">Other</text>
-<text class="small" x="380" y="166" text-anchor="end">5%</text>
+<text class="small" x="380" y="166" text-anchor="end">6%</text>
 <rect class="track" x="20" y="172" width="360" height="6" rx="3"/>
-<rect class="fill" style="animation-delay:280ms" x="20" y="172" width="18.7" height="6" rx="3" fill="#8c959f"/>
+<rect class="fill" style="animation-delay:280ms" x="20" y="172" width="22.2" height="6" rx="3" fill="#8c959f"/>
 <text class="small" x="20" y="193">HTML</text>
 <text class="small" x="380" y="193" text-anchor="end">1%</text>
 <rect class="track" x="20" y="199" width="360" height="6" rx="3"/>

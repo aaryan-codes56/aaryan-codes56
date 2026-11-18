@@ -22,7 +22,7 @@
 <path class="bar grow" style="animation-delay:0ms" d="M33.7 172V69.0Q33.7 66.0 36.7 66.0H54.7Q57.7 66.0 57.7 69.0V172Z"/>
 <text class="small" x="45.7" y="59.0" text-anchor="middle">114</text>
 <text class="tick" x="97.1" y="192" text-anchor="middle">Tue</text>
-<path class="bar grow" style="animation-delay:35ms" d="M85.1 172V142.5Q85.1 139.5 88.1 139.5H106.1Q109.1 139.5 109.1 142.5V172Z"/>
+<path class="bar grow" style="animation-delay:35ms" d="M85.1 172V140.6Q85.1 137.6 88.1 137.6H106.1Q109.1 137.6 109.1 140.6V172Z"/>
 <text class="tick" x="148.6" y="192" text-anchor="middle">Wed</text>
 <path class="bar grow" style="animation-delay:70ms" d="M136.6 172V110.8Q136.6 107.8 139.6 107.8H157.6Q160.6 107.8 160.6 110.8V172Z"/>
 <text class="tick" x="200.0" y="192" text-anchor="middle">Thu</text>
