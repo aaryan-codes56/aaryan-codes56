@@ -28,7 +28,7 @@
 <rect class="track" x="20" y="150" width="360" height="6" rx="3"/>
 <rect class="fill" style="animation-delay:70ms" x="20" y="150" width="11.5" height="6" rx="3" fill="#e3b341"/>
 <text class="small" x="20" y="178">Hard</text>
-<text class="small" x="380" y="178" text-anchor="end">13 / 993</text>
+<text class="small" x="380" y="178" text-anchor="end">13 / 994</text>
 <rect class="track" x="20" y="184" width="360" height="6" rx="3"/>
 <rect class="fill" style="animation-delay:140ms" x="20" y="184" width="4.7" height="6" rx="3" fill="#e3b341"/>
 </svg>
