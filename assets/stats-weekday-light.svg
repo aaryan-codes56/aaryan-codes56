@@ -24,7 +24,7 @@
 <text class="tick" x="97.1" y="192" text-anchor="middle">Tue</text>
 <path class="bar grow" style="animation-delay:35ms" d="M85.1 172V143.4Q85.1 140.4 88.1 140.4H106.1Q109.1 140.4 109.1 143.4V172Z"/>
 <text class="tick" x="148.6" y="192" text-anchor="middle">Wed</text>
-<path class="bar grow" style="animation-delay:70ms" d="M136.6 172V115.2Q136.6 112.2 139.6 112.2H157.6Q160.6 112.2 160.6 115.2V172Z"/>
+<path class="bar grow" style="animation-delay:70ms" d="M136.6 172V110.0Q136.6 107.0 139.6 107.0H157.6Q160.6 107.0 160.6 110.0V172Z"/>
 <text class="tick" x="200.0" y="192" text-anchor="middle">Thu</text>
 <path class="bar grow" style="animation-delay:105ms" d="M188.0 172V145.9Q188.0 142.9 191.0 142.9H209.0Q212.0 142.9 212.0 145.9V172Z"/>
 <text class="tick" x="251.4" y="192" text-anchor="middle">Fri</text>
